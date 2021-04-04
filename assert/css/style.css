@@ -4,12 +4,6 @@
 	margin: 0;
 }
 
-html,
-body {
-	margin: 0;
-	height: 100%;
-}
-
 body {
 	background: url(../images/img-background-image.svg) no-repeat center center fixed;
 	-webkit-background-size: cover;
@@ -232,7 +226,7 @@ body {
 	.wrapper-find-me h2::after {
 		transform: unset; /* IE 9 */
 		margin-left: 10px;
-		bottom: 13px;
+		bottom: 11px;
 	}
 
 	.wrapper-find-me a {
